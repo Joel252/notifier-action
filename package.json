@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/Joel252/notifier-action.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "keywords": [],
   "author": "Joel Cruz",
   "license": "ISC",

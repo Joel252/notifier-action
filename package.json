@@ -1,0 +1,23 @@
+{
+  "name": "@Joel252/notifier-action",
+  "version": "1.0.0",
+  "description": "Function to send notifications to Discord.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joel252/notifier-action.git"
+  },
+  "keywords": [],
+  "author": "Joel Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joel252/notifier-action/issues"
+  },
+  "homepage": "https://github.com/Joel252/notifier-action#readme",
+  "dependencies": {
+    "axios": "^1.10.0"
+  }
+}

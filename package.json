@@ -1,8 +1,8 @@
 {
-  "name": "@Joel252/notifier-action",
+  "name": "@joel252/notifier-action",
   "version": "1.0.0",
   "description": "Function to send notifications to Discord.",
-  "main": "index.js",
+  "main": "notifier.js",
   "scripts": {
     "test": "exit 0"
   },

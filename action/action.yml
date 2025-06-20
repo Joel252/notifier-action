@@ -1,0 +1,18 @@
+name: Notifier action
+description: Send notifications to a Discord channel.
+inputs:
+  webhook_url:
+    description: Web hook URL for the Discord channel
+    required: true
+  message:
+    description: Message to send
+    required: true
+  avatar_url:
+    description: Avatar URL for the message
+    required: false
+runs:
+  using: node20
+  main: "action/index.js"
+branding:
+  icon: "message-circle"
+  color: "blue"

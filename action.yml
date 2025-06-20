@@ -12,7 +12,7 @@ inputs:
     required: false
 runs:
   using: node20
-  main: "action/index.js"
+  main: "index.js"
 branding:
   icon: "message-circle"
   color: "blue"
